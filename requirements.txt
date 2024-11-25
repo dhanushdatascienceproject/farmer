@@ -158,6 +158,7 @@ pytz==2024.1
 pywinpty==2.0.13
 PyYAML==6.0.1
 pyzmq==25.1.2
+pywin32==305
 qtconsole==5.5.1
 QtPy==2.4.1
 RapidFuzz==3.10.0
